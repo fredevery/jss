@@ -1,0 +1,30 @@
+{
+  "name": "jss",
+  "description": "Composable and reusable style sheets.",
+  "main": "./dist/jss.min.js",
+  "authors": [
+    "Oleg Slobodskoi <oleg008@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jss",
+    "style",
+    "sheet",
+    "stylesheet",
+    "css",
+    "components",
+    "composable"
+  ],
+  "homepage": "https://github.com/fredevery/jss",
+  "moduleType": [
+    "node"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
