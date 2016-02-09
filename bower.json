@@ -1,7 +1,7 @@
 {
   "name": "jss",
   "description": "Composable and reusable style sheets.",
-  "main": "dist/jss.min.js",
+  "main": "./dist/jss.min.js",
   "authors": [
     "Oleg Slobodskoi <oleg008@gmail.com>"
   ],
